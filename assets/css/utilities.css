@@ -1,0 +1,11 @@
+.d-none {
+    display: none;
+}
+
+.trend-down {
+    background-image: url(/assets/icons/trending-down.svg);
+}
+
+.trend-up {
+    background-image: url(/assets/icons/trending-up.svg);
+}
